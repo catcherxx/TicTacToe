@@ -7,8 +7,4 @@ public class TicTacToe {
         String board = " | | \n-+-+-\n | | \n-+-+-\n | | \n";
         return board;
     }
-
-    public BoxBounds getBoard() {
-        return board;
-    }
 }
