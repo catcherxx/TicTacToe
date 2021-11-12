@@ -16,7 +16,7 @@ public class RulesTest {
 
     @Test
     public void testFinish(){
-        Assreti
+        //todo define
     }
 
     @Test
@@ -26,7 +26,7 @@ public class RulesTest {
 
     @Test
     public void testPositionIsEmpty(){
-        Assertions.assertEquals(" ", new Ti);
+       
     }
 
     @Test
